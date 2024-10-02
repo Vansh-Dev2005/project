@@ -1,2 +1,2 @@
 # this is a project
-project of front end
+project of front end.
